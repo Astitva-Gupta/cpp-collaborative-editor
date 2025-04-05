@@ -1,0 +1,11 @@
+# Ignore build files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.sln
+/*.vcxproj*
+/*.exe
+/*.obj
+/*.user
+*.log
+*.pdb

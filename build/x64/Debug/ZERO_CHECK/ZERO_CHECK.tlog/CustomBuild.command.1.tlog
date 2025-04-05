@@ -1,0 +1,10 @@
+^C:\COLLABORATIVE-EDITING\BUILD\CMAKEFILES\9394F7A5EE99A8A014B9162876565E9F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/collaborative-editing -BC:/collaborative-editing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/collaborative-editing/build/CollaborativeEditor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

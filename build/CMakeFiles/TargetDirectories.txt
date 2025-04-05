@@ -1,0 +1,4 @@
+C:/collaborative-editing/build/CMakeFiles/ALL_BUILD.dir
+C:/collaborative-editing/build/CMakeFiles/ZERO_CHECK.dir
+C:/collaborative-editing/build/src/CMakeFiles/editor_server.dir
+C:/collaborative-editing/build/src/CMakeFiles/editor_client.dir
