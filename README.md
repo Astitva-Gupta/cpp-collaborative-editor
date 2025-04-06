@@ -34,7 +34,8 @@ This project is a **real-time collaborative editing system** built from scratch 
 ```
 ## 🧪 Output Screenshot
 
-![Demo Output](images/output-demo.png)
+![image](https://github.com/user-attachments/assets/a38a2371-5b36-48b6-a644-b5a6630ed6a0)
+
 
 > The above output shows real-time interaction between two clients where only one is allowed to edit at a time.
 
