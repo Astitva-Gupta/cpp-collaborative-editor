@@ -34,14 +34,10 @@ This project is a **real-time collaborative editing system** built from scratch 
 ```
 ## 🧪 Output Screenshot
 
-<<<<<<< HEAD
 > Below is a demo screenshot showing client-server interaction with lock-based editing:
 
 ![Demo Screenshot](assets/demo.png)
-=======
-![image](https://github.com/user-attachments/assets/a38a2371-5b36-48b6-a644-b5a6630ed6a0)
->>>>>>> 4449c9e7a06f57db71a4369bf2511d80b189e0f8
-
+======
 
 > The above output shows real-time interaction between two clients where only one is allowed to edit at a time.
 
